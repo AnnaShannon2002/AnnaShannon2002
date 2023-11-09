@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+### • My major is Information Technology (IT).
+### • I am a Java and Python programmer.
+### • I am a student at University of North Alabama (UNA).
+### • My goal is to be effectively helpful in the workplace by utilizing the knowledge that I learn.
 
 <!--
 **AnnaShannon2002/AnnaShannon2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
