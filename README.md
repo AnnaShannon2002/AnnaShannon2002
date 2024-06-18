@@ -1,6 +1,6 @@
 ### About Me
 ### • My major is Information Technology (IT).
-### • I am a Java and Python programmer.
+### • I am familiar with Java and Python coding languages.
 ### • I am a student at University of North Alabama (UNA).
 ### • My goal is to be effectively helpful in the workplace by utilizing the knowledge that I learn at UNA.
 
