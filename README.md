@@ -1,4 +1,5 @@
 ### About Me
+### • My name is Anna Shannon.
 ### • My major is Information Technology (IT).
 ### • I am familiar with both Java and Python coding languages.
 ### • I am a student at University of North Alabama (UNA).
